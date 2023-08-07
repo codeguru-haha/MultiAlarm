@@ -1,6 +1,6 @@
 # MultiAlarm
 Multi Alarms is a Python GUI to show a series of alarms that can be set to run simultaneously.
-It can set daily alarm or weekly alarm and can add or remove alarm time.
+**It can set daily alarm or weekly alarm and can add or remove alarm time**.
 Each alarm plays a configured sound to alert the user with each setting time.
 
 
